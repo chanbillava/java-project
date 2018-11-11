@@ -1,7 +1,7 @@
 package com.capgemini.hashing;
 
 import org.apache.commons.codec.digest.DigestUtils;
-
+# My first App
 public class App {
 
     public static void main(String[] args) {
