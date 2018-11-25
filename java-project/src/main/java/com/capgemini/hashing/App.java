@@ -1,7 +1,7 @@
 package com.capgemini.hashing;
 
 import org.apache.commons.codec.digest.DigestUtils;
-// My first Jenkins App
+// My first Jenkins App with Webhooks
 public class App {
 
     public static void main(String[] args) {
